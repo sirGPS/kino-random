@@ -6,6 +6,7 @@ MAIN file
 # location 35 35
 # author renosgps
 
+import fake.py
 
 
 
